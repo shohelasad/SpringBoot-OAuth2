@@ -1,4 +1,4 @@
-# Spring Oauth2 Demo
+# Spring Boot Oauth2 Demo
 
 Implement Oauth2 with Spring Boot 
 
